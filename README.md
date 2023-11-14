@@ -73,9 +73,7 @@ cv2.destroyAllWindows()
 
 ![gray_dip4](https://github.com/Thirukaalathessvarar-S/HISTOGRAM/assets/121166390/bd762b40-15e7-4e8e-820d-f74e4aea716a)
 
-![color_dip4_plt](https://github.com/Thirukaalathessvarar-S/HISTOGRAM/assets/121166390/aaba872e-15ac-40e5-8087-52e3b6a0d3b8)
-
-
+![dip4_riyal](https://github.com/Thirukaalathessvarar-S/HISTOGRAM/assets/121166390/80eab26a-54e0-4e0d-8fc8-1cf041b65599)
 
 ### Histogram of Grayscale Image and any channel of Color Image
 ![dip3_exp4](https://github.com/Thirukaalathessvarar-S/HISTOGRAM/assets/121166390/7793ff4e-c3ad-4262-a8d8-65467fb7b179)
